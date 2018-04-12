@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/4nu81/redwater/issues"
   },
-  "homepage": "https://github.com/4nu81/redwater#readme"
+  "homepage": "https://github.com/4nu81/redwater#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
