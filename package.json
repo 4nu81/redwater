@@ -1,0 +1,19 @@
+{
+  "name": "redwater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "hahaha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/4nu81/redwater.git"
+  },
+  "author": "Andreas Maertens",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/4nu81/redwater/issues"
+  },
+  "homepage": "https://github.com/4nu81/redwater#readme"
+}
